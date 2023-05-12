@@ -23,3 +23,13 @@
 
 # print(x > 3 and not x < 8)
 # print(x > 3 and not x > 8)
+
+# if x == 5:
+#     print('five')
+# else:
+#     print('Not five')
+#
+# if x != 5:
+#     print('five')
+# else:
+#     print('Not five')
