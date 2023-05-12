@@ -61,7 +61,7 @@
 # else:
 #      print('Less than five')
 
-#
+
 # x = 6
 #
 # if x == 5:
@@ -77,3 +77,16 @@
 #     print('Welcome')
 # else:
 #     print('Go home, baby!')
+
+# num1 = int(input('Number 1: '))
+# num2 = int(input('Number 2: '))
+# operator = input('Operator: ')
+# if num2 == 0 and operator == '/':
+#     try:
+#         result = num1/num2
+#         print(f'Result = {result}')
+#     except ZeroDivisionError:
+#         print('На ноль делить нельзя')
+# else:
+#     result = num1 * num2
+#     print(f'Result = {result}')
