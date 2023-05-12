@@ -133,3 +133,13 @@
 # step = 3
 # for i in range(start, stop, step):
 #     print(i)
+
+
+# def num():
+#     return 2 * 2
+#
+# start = num()
+# stop = 15
+# step = 3
+# for i in range(start, stop, step):
+#     print(i)
