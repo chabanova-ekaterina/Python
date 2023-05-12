@@ -3,8 +3,8 @@ print(text)
 
 # 3) Напишите программу, которая на входе получает имя пользователя, cохраняет его в переменную user_name и выводит строку  "Hello {user_name}!"
 
-# user_name = str(input("User Name: "))
-# print("Hello, {}" .format(user_name))
+user_name = str(input("User Name: "))
+print("Hello, {}" .format(user_name))
 
 # user_name = input("User Name: ")
 # print(f"Hello, {user_name}")
