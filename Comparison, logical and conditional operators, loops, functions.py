@@ -60,3 +60,14 @@
 #     print('More than five')
 # else:
 #      print('Less than five')
+
+#
+# x = 6
+#
+# if x == 5:
+#      print('five')
+#
+# elif x > 5:
+#     print('More than five')
+# else:
+#      print('Less than five')
