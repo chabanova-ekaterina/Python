@@ -1,5 +1,5 @@
-# text = 'Hello, World'
-# print(text)
+text = 'Hello, World'
+print(text)
 
 # 3) Напишите программу, которая на входе получает имя пользователя, cохраняет его в переменную user_name и выводит строку  "Hello {user_name}!"
 
