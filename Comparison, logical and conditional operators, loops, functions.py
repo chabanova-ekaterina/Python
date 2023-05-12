@@ -71,3 +71,9 @@
 #     print('More than five')
 # else:
 #      print('Less than five')
+
+# age = int(input('Please, enter your age: '))
+# if age >= 18:
+#     print('Welcome')
+# else:
+#     print('Go home, baby!')
