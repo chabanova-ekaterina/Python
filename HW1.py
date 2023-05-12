@@ -6,8 +6,8 @@ print(text)
 user_name = str(input("User Name: "))
 print("Hello, {}" .format(user_name))
 
-# user_name = input("User Name: ")
-# print(f"Hello, {user_name}")
+user_name = input("User Name: ")
+print(f"Hello, {user_name}")
 
 
 # 4) Напишите программу, которая на входе получает 2 числа, производит с ними арифметическую
