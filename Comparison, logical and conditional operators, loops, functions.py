@@ -33,3 +33,10 @@
 #     print('five')
 # else:
 #     print('Not five')
+
+# y = 6
+#
+# if y != 5:
+#     print('Correct')
+# else:
+#     print('Not Correct')
