@@ -6,3 +6,6 @@
 
 # compare2 = 3 != 4
 # print(compare2)
+
+# compare3 = 3 > 4
+# print(compare3)
