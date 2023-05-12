@@ -165,3 +165,9 @@
 #     print('Нечетное')
 # else:
 #     print('Четное')]
+
+# num = 78568767
+# if not num%2:
+#     print('Четное')
+# else:
+#     print('Нечетное')
