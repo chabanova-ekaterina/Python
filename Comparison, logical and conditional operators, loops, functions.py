@@ -151,3 +151,10 @@
 #     x += i
 #     i +=1
 #     print(f"x = {x}, i = {i}")
+
+
+# message = 'Hello'
+# if message:
+#     print(message)
+# else:
+#     print('The string is empty')
