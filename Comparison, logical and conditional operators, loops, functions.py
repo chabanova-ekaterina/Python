@@ -179,3 +179,12 @@
 # print(num(10, 5))
 # print(num(9, 7))
 
+
+# def num(num1, num2):
+#     return num1 - num2
+#
+# start = num(8, 5)
+# stop = 15
+# step = 3
+# for i in range(start, stop, step):
+#     print(i)
