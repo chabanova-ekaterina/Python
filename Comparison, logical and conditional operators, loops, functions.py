@@ -45,19 +45,19 @@ x = 5
 if x == 5:
      print('five')
 elif x > 5:
-    print('More than five')
+     print('More than five')
 else:
      print('Less than five')
 
-# x = 5
-#
-# if x == 3:
-#      print('five')
-#
-# elif x > 5:
-#     print('More than five')
-# else:
-#      print('Less than five')
+x = 5
+
+if x == 3:
+     print('five')
+
+elif x > 5:
+     print('More than five')
+else:
+     print('Less than five')
 
 
 # x = 6
