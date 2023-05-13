@@ -13,10 +13,10 @@ print(compare3)
 compare3 = 3 <= 4
 print(compare3)
 
-# x = 5
+x = 5
 
-# print(x > 3 and x < 8)
-# print(x > 3 and x > 8)
+print(x > 3 and x < 8)
+print(x > 3 and x > 8)
 
 # print(x > 3 or x < 8)
 # print(x > 3 or x > 8)
