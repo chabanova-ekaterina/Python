@@ -89,16 +89,15 @@ else:
     result = num1 * num2
     print(f'Result = {result}')
 
-# num = 0
-# while num < 5:
-#     print(num)
-#     num = num + 1
-#
-# message = 'Hello'
-# i = 1
-# while i < 6:
-#     print(i, message)
-#     i +=1
+num = 0
+while num < 5:
+    print(num)
+    num = num + 1
+message = 'Hello'
+i = 1
+while i < 6:
+    print(i, message)
+    i +=1
 
 # message = 'Hello'
 # i = 1
