@@ -169,11 +169,10 @@ else:
     print('Нечетное')
 
 
-# def num(num1, num2):
-#     return num1 - num2
-#
-# print(num(10, 5))
-# print(num(9, 7))
+def num(num1, num2):
+    return num1 - num2
+print(num(10, 5))
+print(num(9, 7))
 
 
 # def num(num1, num2):
