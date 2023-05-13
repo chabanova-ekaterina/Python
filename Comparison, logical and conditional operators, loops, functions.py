@@ -99,13 +99,13 @@ while i < 6:
     print(i, message)
     i +=1
 
-# message = 'Hello'
-# i = 1
-# while i < 6:
-#     print(i, message)
-#     if i == 3:
-#         break
-#     i +=1
+message = 'Hello'
+i = 1
+while i < 6:
+    print(i, message)
+    if i == 3:
+        break
+    i +=1
 
 # message = 'Hello'
 # i = 0
