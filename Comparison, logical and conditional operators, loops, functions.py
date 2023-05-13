@@ -107,13 +107,13 @@ while i < 6:
         break
     i +=1
 
-# message = 'Hello'
-# i = 0
-# while i < 6:
-#     i += 1
-#     if i == 3:
-#         continue
-#     print(i, message)
+message = 'Hello'
+i = 0
+while i < 6:
+    i += 1
+    if i == 3:
+        continue
+    print(i, message)
 
 # for i in range(6):
 #     print(i)
