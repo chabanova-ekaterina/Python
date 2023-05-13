@@ -10,8 +10,8 @@ print(compare2)
 compare3 = 3 > 4
 print(compare3)
 
-# compare3 = 3 <= 4
-# print(compare3)
+compare3 = 3 <= 4
+print(compare3)
 
 # x = 5
 
