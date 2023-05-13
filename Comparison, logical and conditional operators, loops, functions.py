@@ -70,11 +70,11 @@ elif x > 5:
 else:
      print('Less than five')
 
-# age = int(input('Please, enter your age: '))
-# if age >= 18:
-#     print('Welcome')
-# else:
-#     print('Go home, baby!')
+age = int(input('Please, enter your age: '))
+if age >= 18:
+    print('Welcome')
+else:
+    print('Go home, baby!')
 
 # num1 = int(input('Number 1: '))
 # num2 = int(input('Number 2: '))
