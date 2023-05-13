@@ -162,11 +162,11 @@ if num%2:
 else:
     print('Четное')]
 
-# num = 78568767
-# if not num%2:
-#     print('Четное')
-# else:
-#     print('Нечетное')
+num = 78568767
+if not num%2:
+    print('Четное')
+else:
+    print('Нечетное')
 
 
 # def num(num1, num2):
