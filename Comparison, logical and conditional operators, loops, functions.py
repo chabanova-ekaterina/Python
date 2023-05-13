@@ -33,6 +33,7 @@ if x != 5:
 else:
     print('Not five')
 
+    
 y = 6
 
 if y != 5:
@@ -40,6 +41,7 @@ if y != 5:
 else:
     print('Not Correct')
 
+    
 x = 5
 
 if x == 5:
@@ -49,6 +51,7 @@ elif x > 5:
 else:
      print('Less than five')
 
+        
 x = 5
 
 if x == 3:
@@ -89,6 +92,7 @@ else:
     result = num1 * num2
     print(f'Result = {result}')
 
+    
 num = 0
 while num < 5:
     print(num)
@@ -107,6 +111,7 @@ while i < 6:
         break
     i +=1
 
+    
 message = 'Hello'
 i = 0
 while i < 6:
@@ -115,6 +120,7 @@ while i < 6:
         continue
     print(i, message)
 
+    
 for i in range(6):
     print(i)
 
