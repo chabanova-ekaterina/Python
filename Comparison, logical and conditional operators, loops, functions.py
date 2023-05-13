@@ -18,8 +18,8 @@ x = 5
 print(x > 3 and x < 8)
 print(x > 3 and x > 8)
 
-# print(x > 3 or x < 8)
-# print(x > 3 or x > 8)
+print(x > 3 or x < 8)
+print(x > 3 or x > 8)
 
 # print(x > 3 and not x < 8)
 # print(x > 3 and not x > 8)
