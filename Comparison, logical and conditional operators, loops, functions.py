@@ -156,11 +156,11 @@ else:
     print('The string is empty')
 
 
-# num = 78568768
-# if num%2:
-#     print('Нечетное')
-# else:
-#     print('Четное')]
+num = 78568768
+if num%2:
+    print('Нечетное')
+else:
+    print('Четное')]
 
 # num = 78568767
 # if not num%2:
