@@ -33,12 +33,12 @@ if x != 5:
 else:
     print('Not five')
 
-# y = 6
-#
-# if y != 5:
-#     print('Correct')
-# else:
-#     print('Not Correct')
+y = 6
+
+if y != 5:
+    print('Correct')
+else:
+    print('Not Correct')
 
 # x = 5
 #
