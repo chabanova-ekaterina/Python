@@ -149,11 +149,11 @@ while i < 4:
     print(f"x = {x}, i = {i}")
 
 
-# message = 'Hello'
-# if message:
-#     print(message)
-# else:
-#     print('The string is empty')
+message = 'Hello'
+if message:
+    print(message)
+else:
+    print('The string is empty')
 
 
 # num = 78568768
