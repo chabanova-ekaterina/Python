@@ -83,3 +83,14 @@
 #         print(f"{a} делится на 2, но не делиться на 10")
 # else:
 #     print(f"{a} не делиться на 2")
+
+
+# q = int(input('Введите вашу отметку: '))
+# if q >= 100:
+#     print(5)
+# elif q >= 80:
+#     print(4)
+# elif q >=70:
+#     print(3)
+# else:
+#     print(2)
