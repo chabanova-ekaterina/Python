@@ -66,3 +66,10 @@
 # print(w6.isdigit())
 # print(w7.isdigit())
 # print(w8.isdigit())
+
+# w6 = '01234'
+# w7 = 'QWErty'
+# w8 = '1234K'
+# print(w6.isalpha())
+# print(w7.isalpha())
+# print(w8.isalpha())
