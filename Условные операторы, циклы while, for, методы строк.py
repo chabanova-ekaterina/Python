@@ -157,3 +157,8 @@
 #     count += num
 #     text = input('Для продолжения введите число, если хотите остановить, то введите "stop" ')
 # print(f"Сумма чисел равна: {count}")
+
+
+# num = 10
+# for i in range(num):
+#     print(i)
