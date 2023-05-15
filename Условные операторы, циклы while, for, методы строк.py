@@ -52,3 +52,10 @@
 # print(w7.islower())
 # print(w8.islower())
 # print(w9.islower())
+
+# w6 = 'QWERTy'
+# w7 = 'QWERTY'
+# w8 = '123K'
+# print(w6.isupper())
+# print(w7.isupper())
+# print(w8.isupper())
