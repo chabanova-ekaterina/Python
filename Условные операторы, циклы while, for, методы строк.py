@@ -184,3 +184,8 @@
 # for i in range(len(string_1)):
 #     if string_1[i].isupper():
 #         print(i, string_1[i])
+
+# string_1 = 'He3lL4o'
+# for i in range(len(string_1)):
+#     if string_1[i].isdigit():
+#         print(i, string_1[i])
