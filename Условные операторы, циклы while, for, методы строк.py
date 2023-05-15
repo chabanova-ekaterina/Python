@@ -170,3 +170,8 @@
 # num = 10
 # for i in range(1, num, 3):
 #     print(i)
+
+
+# string_1 = 'hello'
+# for i in range(len(string_1)):
+#     print(string_1[i])
