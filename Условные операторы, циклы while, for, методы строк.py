@@ -113,3 +113,7 @@
 # x, y = 55, 50
 # s = x if x > y else y
 # print(s)
+
+# x, y = 45, 50
+# s = x if x > y else y
+# print(s)
