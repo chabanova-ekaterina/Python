@@ -21,3 +21,8 @@
 # w3 = '       Hello       '
 # print(w3)
 # print(w3.strip())
+
+# w3 = '123   Hello    123'
+# print(w3)
+# print(w3.strip())
+# print(w3.strip('123'))
