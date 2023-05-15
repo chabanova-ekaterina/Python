@@ -12,3 +12,6 @@
 # w1 = '1, 2, 3, 4, 5'
 # print(w1.split(','))
 # print(w1.split(',', maxsplit=2))
+
+# w2 = w1.split(',')
+# print(''.join(w1))
