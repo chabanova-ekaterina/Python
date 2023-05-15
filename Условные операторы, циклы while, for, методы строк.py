@@ -5,6 +5,7 @@
 # print(s.replace(' ', ''))
 # print(s.count('o'))
 
+
 # w = 'Денисов Денис Денисович'
 # print(w.split())
 # print(w.split('е'))
@@ -15,3 +16,8 @@
 
 # w2 = w1.split(',')
 # print(''.join(w1))
+
+
+# w3 = '       Hello       '
+# print(w3)
+# print(w3.strip())
