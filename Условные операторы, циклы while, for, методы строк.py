@@ -37,3 +37,9 @@
 
 # w5 = 'heLLo worLd'
 # print(w5.index('e', 2, 5))
+
+# print(w5.upper())
+# print(w5.lower())
+# print(w5.title())
+# print(w5.capitalize())
+# print(w5.swapcase())
