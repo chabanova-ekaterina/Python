@@ -60,12 +60,12 @@ print(w6.isupper())
 print(w7.isupper())
 print(w8.isupper())
 
-# w6 = '01234'
-# w7 = '0, 1'
-# w8 = '1234K'
-# print(w6.isdigit())
-# print(w7.isdigit())
-# print(w8.isdigit())
+w6 = '01234'
+w7 = '0, 1'
+w8 = '1234K'
+print(w6.isdigit())
+print(w7.isdigit())
+print(w8.isdigit())
 
 # w6 = '01234'
 # w7 = 'QWErty'
