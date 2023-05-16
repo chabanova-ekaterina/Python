@@ -75,14 +75,14 @@ print(w7.isalpha())
 print(w8.isalpha())
 
 
-# a = int(input('Enter the number '))
-# if a % 2 == 0:
-#     if a % 10 == 0:
-#         print(f"{a} делится на 2 и 10 без остатка")
-#     else:
-#         print(f"{a} делится на 2, но не делиться на 10")
-# else:
-#     print(f"{a} не делиться на 2")
+a = int(input('Enter the number '))
+if a % 2 == 0:
+    if a % 10 == 0:
+        print(f"{a} делится на 2 и 10 без остатка")
+    else:
+        print(f"{a} делится на 2, но не делиться на 10")
+else:
+    print(f"{a} не делиться на 2")
 
 
 # q = int(input('Введите вашу отметку: '))
