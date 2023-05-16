@@ -35,8 +35,8 @@ print(w3.strip().strip('123').strip())
 w4 = 'hello world'
 print(w4.find('o', 2, 5))
 
-# w5 = 'heLLo worLd'
-# print(w5.index('e', 2, 5))
+w5 = 'heLLo worLd'
+print(w5.index('e', 2, 5))
 
 # print(w5.upper())
 # print(w5.lower())
