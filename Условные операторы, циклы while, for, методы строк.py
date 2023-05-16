@@ -135,10 +135,10 @@ match value:
         print('Такой цыфры нет')
 
 
-# c = 0
-# while c < 5:
-#     print('Hello')
-#     c += 1
+c = 0
+while c < 5:
+    print('Hello')
+    c += 1
 
 
 # c = 0
