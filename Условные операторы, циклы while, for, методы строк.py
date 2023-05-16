@@ -1,5 +1,5 @@
-# s = 'Hello World'
-# print(s.replace('l', '?', 5))
+s = 'Hello World'
+print(s.replace('l', '?', 5))
 
 # s = 'Hello World'
 # print(s.replace(' ', ''))
