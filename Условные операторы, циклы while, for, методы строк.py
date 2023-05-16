@@ -44,14 +44,14 @@ print(w5.title())
 print(w5.capitalize())
 print(w5.swapcase())
 
-# w6 = 'qwerty'
-# w7 = 'Qwerty'
-# w8 = '123'
-# w9 = '123asd'
-# print(w6.islower())
-# print(w7.islower())
-# print(w8.islower())
-# print(w9.islower())
+w6 = 'qwerty'
+w7 = 'Qwerty'
+w8 = '123'
+w9 = '123asd'
+print(w6.islower())
+print(w7.islower())
+print(w8.islower())
+print(w9.islower())
 
 # w6 = 'QWERTy'
 # w7 = 'QWERTY'
