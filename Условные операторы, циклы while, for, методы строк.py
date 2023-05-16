@@ -38,11 +38,11 @@ print(w4.find('o', 2, 5))
 w5 = 'heLLo worLd'
 print(w5.index('e', 2, 5))
 
-# print(w5.upper())
-# print(w5.lower())
-# print(w5.title())
-# print(w5.capitalize())
-# print(w5.swapcase())
+print(w5.upper())
+print(w5.lower())
+print(w5.title())
+print(w5.capitalize())
+print(w5.swapcase())
 
 # w6 = 'qwerty'
 # w7 = 'Qwerty'
