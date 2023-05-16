@@ -163,9 +163,9 @@ num = 10
 for i in range(num):
     print(i)
 
-# num = 10
-# for i in range(num + 1):
-#     print(i)
+num = 10
+for i in range(num + 1):
+    print(i)
 
 # num = 10
 # for i in range(1, num, 3):
