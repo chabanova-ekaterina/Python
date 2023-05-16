@@ -96,18 +96,18 @@ else:
     print(2)
 
 
-# if 10 < 20:
-#     pass
-# print(5)
+if 10 < 20:
+    pass
+print(5)
 
 
-# number = int(input('Введите число: '))
-# if number < 10:
-#     print('Однозначное число')
-# elif 100 <= number <=999:
-#     print('Трехзначное число')
-# else:
-#     print('Мы это еще не проходили')
+number = int(input('Введите число: '))
+if number < 10:
+    print('Однозначное число')
+elif 100 <= number <=999:
+    print('Трехзначное число')
+else:
+    print('Мы это еще не проходили')
 
 
 # x, y = 55, 50
