@@ -176,9 +176,9 @@ string_1 = 'hello'
 for i in range(len(string_1)):
     print(string_1[i])
 
-# string_1 = 'hello'
-# for i in string_1:
-#     print(i)
+string_1 = 'hello'
+for i in string_1:
+    print(i)
 
 # string_1 = 'HelLo'
 # for i in range(len(string_1)):
