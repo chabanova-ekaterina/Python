@@ -119,20 +119,20 @@ s = x if x > y else y
 print(s)
 
 
-# value = 4
-# match value:
-#     case 1:
-#         print(1)
-#     case 2:
-#         print(2)
-#     case 3:
-#         print(3)
-#     case 4:
-#         print(4)
-#     case 5:
-#         print(5)
-#     case _:
-#         print('Такой цыфры нет')
+value = 4
+match value:
+    case 1:
+        print(1)
+    case 2:
+        print(2)
+    case 3:
+        print(3)
+    case 4:
+        print(4)
+    case 5:
+        print(5)
+    case _:
+        print('Такой цыфры нет')
 
 
 # c = 0
