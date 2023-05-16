@@ -150,13 +150,13 @@ while c < 5:
     c += 1
 
 
-# text = int(input('Введите число: '))
-# count = 0
-# while text != 'stop':
-#     num = int(text)
-#     count += num
-#     text = input('Для продолжения введите число, если хотите остановить, то введите "stop" ')
-# print(f"Сумма чисел равна: {count}")
+text = int(input('Введите число: '))
+count = 0
+while text != 'stop':
+    num = int(text)
+    count += num
+    text = input('Для продолжения введите число, если хотите остановить, то введите "stop" ')
+print(f"Сумма чисел равна: {count}")
 
 
 # num = 10
