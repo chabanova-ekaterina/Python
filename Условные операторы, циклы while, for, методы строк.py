@@ -141,13 +141,13 @@ while c < 5:
     c += 1
 
 
-# c = 0
-# while c < 5:
-#     if c % 2 == 0:
-#         print('Chet')
-#     else:
-#         print('Nechet')
-#     c += 1
+c = 0
+while c < 5:
+    if c % 2 == 0:
+        print('Chet')
+    else:
+        print('Nechet')
+    c += 1
 
 
 # text = int(input('Введите число: '))
